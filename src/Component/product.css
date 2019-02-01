@@ -1,0 +1,32 @@
+.clll{
+    width: 500px;
+    border:5px red solid;
+    height: 700px;
+}
+.detiles{width: 1000px;
+height: 550px;
+margin-top: 55px;
+border:5px blue solid
+;padding: 20px}
+.product-cartion{display: flex;
+justify-content: center}
+.title-product{
+    color: rgb(255, 157, 111);
+    text-align: center
+}
+.description-product{
+    text-align: center;
+
+}
+.price-color{display: flex;
+justify-content: space-around}
+.color-hh{background: crimson;
+width: 30px;
+height: 30px;
+margin: 0 10px 0 0px}
+.Assofmo8t{display: flex;
+justify-content: space-between}
+.asasas{background: rgb(206, 53, 47);
+   
+    padding: 5px;
+    margin: 0 10px 0 0px}

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+.premier-columnn{display: flex;
+justify-content: center;
+margin-top: 37.5px;
+
+width: 580px;
+
+height: 542px;}
+.closeeee{position: absolute;top:5px ;left:685px;
+width: 30px;
+height: 30px;
+cursor: pointer;
+border-radius: 50%;
+background: rgb(26, 25, 32);
+color: #D8D8D8;font-size: 20px;
+}
+Link{text-decoration: none}
+.shop-img{width: 50px;
+height: 50px;
+}
+.part-workshop{
+    display: flex;
+justify-content: center;
+margin-bottom: 50px
+
+
+}
+.button-workshop{
+    background: rgb(26, 25, 32);
+    ;width: clac(100%-80px);
+    color: #CDCDCD;
+    font-size: 30px
+    ;font-weight: bold;
+    padding: 10px 40px;
+}
+.part-two-workshop{cursor: pointer;}
+.part-two-workshop:hover{color: rgb(253, 96, 68)
+
+}
+.part-one-workshop{cursor: pointer;}
+.part-one-workshop:hover{color: rgb(253, 96, 68)
+
+}
+.shop-img{margin: 0 60px}
+
+.icon-desingn{
+    background: rgb(26, 25, 32);
+    height: 541px;
+    width: 80px
+    
+}
+.work-shop-title{color: rgb(26, 25, 32);
+text-align: center; font-size: 30px;
+margin-bottom:50px}
+.apercy-menu{
+    background: white;height:500px;
+   width:400px;
+padding: 20px}
+.shop-text{font-size: 20px;
+text-align: center;
+font-weight: bold}
+.icon-img-title-la{
+
+    background: rgb(26, 25, 32);
+    padding: 20px 10px;
+    color: #CDCDCD;
+    
+    font-size:15px;
+    text-align: center;
+    margin: 0
+}
+.icon-img-title-la:hover{color:rgb(253, 96, 68);
+cursor: pointer;
+background: rgb(33, 32, 39)}
+.work-shoppp{
+    display:flex;
+    height :615px;
+    justify-content: center;
+
+}
+.iconnnnn{font-size: 30px}
+.button-workshop{display:flex;
+justify-content: space-around}
+.spark{background: #D8D8D8;
+    font-family: 'Noto Sans', sans-serif;
+    position: relative;
+}
+.t-shirtyz{height: 615px;margin-left: 200px}

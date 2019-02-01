@@ -1,0 +1,65 @@
+.apercy-menu{
+    background: white;height:500px;
+   width:400px;
+padding: 20px;
+color: rgb(26, 25, 32)
+}
+.button-uploader{color: #D8D8D8;background: rgb(26, 25, 32);
+        padding: 10px 25px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+
+    text-decoration: none;
+    cursor: pointer;
+}
+.type-of-images{
+    color: #D8D8D8;
+    display: flex;
+    justify-content: center
+}
+.typesss{background: rgb(26, 25, 32);margin: 10px 2.5px;
+padding: 10px 15px}
+.input-filess{color: #D8D8D8;
+background: rgb(26, 25, 32)}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  height:100%;
+  text-align:center;
+  position:relative;
+}
+
+.button-wrapper {
+  position: relative;
+  width: 150px;
+  text-align: center;
+  margin: 20% auto;
+}
+
+.button-wrapper span.label {
+  position: relative;
+  z-index: 0;
+  display: inline-block;
+  width: 100%;
+  background: rgb(26, 25, 32);
+  cursor: pointer;
+  color: #D8D8D8;
+  padding: 10px 0;
+  cursor: pointer;
+  text-transform:uppercase;
+  font-size:12px;
+}
+
+#upload {
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 50px;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+}

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Noto+Sans|Open+Sans+Condensed:300|Oswald|Playfair+Display|Poppins|Raleway|Roboto+Mono|Ubuntu|ZCOOL+KuaiLe');
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Playfair Display', serif;
+font-family: 'ZCOOL KuaiLe', cursive; */
+.text-dec-workshop{margin-top: 60px}
+.apercy-menu{
+    background: white;height:500px;
+   width:400px;
+padding: 20px;
+}
+.Text-input-workshop{background: white;
+border: 1px solid rgba(26, 25, 32, 0.637);
+height: 25px;
+width: 85%;
+color: rgb(26, 25, 32);
+display: flex;
+justify-content: center;
+margin: auto;
+text-align: center;
+padding: 10px 20px}
+.Font-input-workshop{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+ 
+
+}
+
+.font-familly-input-workshop2{font-family: 'Oswald', sans-serif;}
+.font-familly-input-workshop3{font-family: 'Raleway', sans-serif;}
+.font-familly-input-workshop4{font-family: 'Merriweather', serif;}
+.font-familly-input-workshop5{font-family: 'Noto Sans', sans-serif;}
+.font-familly-input-workshop6{font-family: 'Poppins', sans-serif;}
+.font-familly-input-workshop7{font-family: 'Ubuntu', sans-serif;}
+.font-familly-input-workshop8{font-family: 'Open Sans Condensed', sans-serif;}
+.font-familly-input-workshop9{font-family: 'Roboto Mono', monospace;}
+.font-familly-input-workshop10{font-family: 'Playfair Display', serif;}
+.font-familly-input-workshop11{font-family: 'ZCOOL KuaiLe', cursive;}
+.option-input-workshop2{ color:#01c4a9; background-color:#01c4a9}
+.option-input-workshop3{   color:#016ac2; background-color:#016ac2}
+.option-input-workshop4{ color:#3700c0; background-color:#3700c0}
+.option-input-workshop5{ color:#8300c2; background-color:#8300c2}
+.option-input-workshop6{  color:#be0517; background-color:#be0517}
+.option-input-workshop7{  color:#c60051; background-color:#c60051}
+.option-input-workshop8{   color:#d1b30c; background-color:#d1b30c}
+.option-input-workshop9{  color:#d13f0c; background-color:#d13f0c}
+.option-input-workshop10{  color:#d1690c; background-color:#d1690c}
+.option-input-workshop11{ color:#ffffff   ; background-color:#ffffff}
+.Text-Font-input-workshop{color: rgb(26, 25, 32); font-size: 15px;padding: 0;
+margin-top: 7px; font-family: 'Noto Sans', sans-serif;font-weight: bold}
+.color-input-workshop{    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;}
+    .color-Font-input-workshop{color: rgb(26, 25, 32); font-size: 15px;padding: 0;
+        margin-top: 7px; font-family: 'Noto Sans', sans-serif;font-weight: bold}
+        .select-input-workshop{width: 300px;
+            height: 30px;
+            text-align: center;
+        background:#D8D8D8 ;
+        color:rgb(26, 25, 32) ;
+        font-size: 15px;
+           padding: 5px 20px;
+        border: none;
+        }
+        .button-input-workshop{color: #D8D8D8;background: #1840A3;
+        padding: 5px 20px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.button-input-workshop:hover{background: rgb(33, 72, 170);
+}

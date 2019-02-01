@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+.header{
+ display: flex;
+ justify-content:space-around;
+ background: white ;
+
+ height:  100px;
+
+ width:100%;z-index: 2;
+
+}
+.imaggs{width: 120px;height: 100px;
+    position: absolute;
+    left: 20px
+}
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+
+.search {
+  width: 100%;
+  position: relative
+}
+
+.searchTerm {
+  float: left;
+  width: 100%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: rgb(204, 231, 219);
+}
+
+.searchTerm:focus{
+  color: rgb(0, 0, 0);
+}
+
+.searchButton {
+  position: absolute;  
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid rgb(0, 0, 0);
+  background: rgb(0, 0, 0);
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+
+.wrap{
+  width: 20%;
+  position: absolute;
+top: 50px;
+  left: 600px;
+  transform: translate(-50%, -50%);
+}
+.fa-shopping-cart{
+    position: absolute;
+    top: 35px;
+    left: 1000px;
+    font-size: 30px
+}
+.logiiiin{
+    
+    position: absolute;
+    top: 35px;
+    left: 1300px;
+    font-size: 25px
+}

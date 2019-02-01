@@ -1,0 +1,55 @@
+.category{
+    display: flex;
+    justify-content: space-between;
+    background-image: url('https://images.pexels.com/photos/35188/child-childrens-baby-children-s.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') 
+    ;background-size:100%;
+}
+.design{
+    background: rgba(63, 238, 232, 0.918);
+    width: 50%;
+    height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+color: white;
+font-size: 39px;
+
+}
+.select-login{height: 50px;
+border: none;
+margin-left: 550px;
+font-size: 20px;
+font-weight: bold;
+padding: 10px 30px;
+background: #55BDCA;
+color: white}
+.shop{background: rgba(252, 68, 68, 0.918);
+    width: 50%;
+    height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-size: 39px;
+
+
+}
+.design>h1:hover{
+    cursor: pointer;
+}
+.shop>h1:hover{
+    cursor: pointer;
+}
+.design:hover{
+background: rgba(63, 238, 232, 0.705)
+}
+.shop:hover{
+    background: rgba(252, 68, 68, 0.705)
+    }
+    .design:hover>h1{font-size: 90px}
+    .shop:hover>h1{font-size: 90px}
+
+
+    
+   

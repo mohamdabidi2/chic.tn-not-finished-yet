@@ -1,0 +1,18 @@
+.apercy-menu{
+    background: white;height:500px;
+   width:400px;
+padding: 10px;
+}
+.color1{ color:#01c4a9; background-color:#01c4a9 ; width: 30px ; height: 30px;margin-left:10px}
+.color2{   color:#016ac2; background-color:#016ac2; width: 30px ; height: 30px;margin-left:10px}
+.color3{ color:#3700c0; background-color:#3700c0; width: 30px ; height: 30px;margin-left:10px}
+.color4{ color:#8300c2; background-color:#8300c2; width: 30px ; height: 30px;margin-left:10px}
+.color5{  color:#be0517; background-color:#be0517; width: 30px ; height: 30px;margin-left:10px}
+.color6{  color:#c60051; background-color:#c60051; width: 30px ; height: 30px;margin-left:10px}
+.color7{   color:#d1b30c; background-color:#d1b30c; width: 30px ; height: 30px;margin-left:10px}
+.color8{  color:#d13f0c; background-color:#d13f0c; width: 30px ; height: 30px;margin-left:10px}
+.color9{  color:#d1690c; background-color:#d1690c; width: 30px ; height: 30px;margin-left:10px}
+.color10{ color:#ffffff   ; background-color:#ffffff; width: 30px ; height: 30px;margin-left:10px}
+.pro-colooor{display: flex;
+justify-content: center;
+}
